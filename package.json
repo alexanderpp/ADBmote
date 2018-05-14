@@ -1,0 +1,13 @@
+{
+  "name": "android-tv-remote-adb",
+  "version": "1.0.0",
+  "description": "Node.js application to control Android TV via ADB.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "install": "sh install.sh"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.0"
+  }
+}
